@@ -1,2 +1,16 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+# 
+Results
+
+1.By Filtering to the United States campaigns, we see that there are 525 successful theater Kickstarters.
+
+![Parent Categories Outcome](https://user-images.githubusercontent.com/74743437/108007302-a14aa500-6fcb-11eb-8339-6347edb36d29.png)
+
+2.In Great Britain we found a total of 604 kickstarter campaigns for plays, Theater is the most successful.
+
+![Subcategory Statisstics](https://user-images.githubusercontent.com/74743437/108008049-65b0da80-6fcd-11eb-93a5-1a50da05d66a.png)
+
+When we research previouse years, we find that 2015 had the most successfull completion rate.
+
+![Outcomes Based on Dates](https://user-images.githubusercontent.com/74743437/108008183-c5a78100-6fcd-11eb-9d17-3b8f531a02ae.png)
+
+Based on these findings I would highhly recomend Theater Plays, for a kickstarter fund.
