@@ -11,6 +11,6 @@ Results
 
 When we research previouse years, we find that 2015 had the most successfull completion rate.
 
-![Outcomes Based on Dates](https://user-images.githubusercontent.com/74743437/108008183-c5a78100-6fcd-11eb-9d17-3b8f531a02ae.png)
+![Outcomes Based on Launch Dates](https://user-images.githubusercontent.com/74743437/108611303-65d51f80-73ab-11eb-9f7f-84191557e416.png)
 
 Based on these findings I would highhly recomend Theater Plays, for a kickstarter fund.
